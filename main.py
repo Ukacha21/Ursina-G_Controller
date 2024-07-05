@@ -21,7 +21,6 @@ rotation_x=90,
 position=(0, -5, 0),
 double_sided=True
 )
-
 stand_pos = Entity(
     model="cube",
     texture="brick",
@@ -31,7 +30,6 @@ stand_pos = Entity(
     position=(0, -5, 5),
     double_sided=True
     )
-
 player = FPC()
 gun = Gun_Controller(gun_model, player, gun_texture, stand_pos)
 
