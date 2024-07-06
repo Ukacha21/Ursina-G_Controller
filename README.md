@@ -14,7 +14,10 @@ So I modified the FirstPersonController and made the other controller out of it.
 **Requirements**
 
 * Python (optional: V 3.12.3)
-* Ursina Engine Version 7.0.0 or higher: `pip install ursina`
+* Ursina Engine Version 7.0.0 or higher:
+
+      pip install ursina
+
 * threading (built-in)
 * delta time (come with ursina)
 * random (built-in or with ursina)
