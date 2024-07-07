@@ -1,8 +1,6 @@
 ### Ursina Gun_Controller for FirstPersonController
 
-As we know the current version of Ursina engine doens't seem to have built in gun_controller or car_controller just yet.
-
-So I modified the FirstPersonController and made the other controller out of it.
+As we know, the current version of the Ursina engine lacks built-in gun controllers or car controllers. To bridge this gap, Ukacha21/Ursina-G_Controller steps in!  This meticulously designed gun controller is specifically tailored for Ursina's FirstPersonController. This innovative package empowers you to seamlessly integrate robust gun mechanics into your projects, elevating the gameplay and user engagement to new heights.
 
 **Objects**
 
@@ -10,6 +8,14 @@ So I modified the FirstPersonController and made the other controller out of it.
 * Stand Position
 * Ground
 * (superpositioned) target
+
+**Benefits**
+
+* **Effortless Integration**: Designed with developer ease-of-use in mind, Ursina-G_Controller seamlessly integrates with Ursina's existing FirstPersonController, streamlining the development process.
+
+* **Fine-Tuned Control**: Experience unparalleled precision with a comprehensive set of features, allowing you to craft a truly realistic and engaging gunplay experience.
+
+* **Open-Source Power**: Leverage the power of open-source development! Ursina-G_Controller provides complete access and customization capabilities, perfect for tailoring it to your specific project needs.
 
 **Requirements**
 
