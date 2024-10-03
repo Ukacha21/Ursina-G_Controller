@@ -1,3 +1,9 @@
+"""
+Python 3.12.3
+ursina                    7.0.0
+
+"""
+
 from ursina import *
 from gun_controller import Gun_Controller
 from ursina.prefabs.first_person_controller import FirstPersonController as FPC
